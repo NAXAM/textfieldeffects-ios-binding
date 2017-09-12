@@ -1,0 +1,33 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxam.TextFieldEffectsQs", "TextFieldEffectsQs\Naxam.TextFieldEffectsQs.csproj", "{E0B5BCE1-406D-49E9-8B86-2C0C0A093B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxam.TextFieldEffects.iOS", "TextFieldEffectsRaulriera\Naxam.TextFieldEffects.iOS.csproj", "{4CCB379A-C557-4F36-B88E-6CC646BA69D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0B5BCE1-406D-49E9-8B86-2C0C0A093B8D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E0B5BCE1-406D-49E9-8B86-2C0C0A093B8D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E0B5BCE1-406D-49E9-8B86-2C0C0A093B8D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E0B5BCE1-406D-49E9-8B86-2C0C0A093B8D}.Release|iPhone.Build.0 = Release|iPhone
+		{E0B5BCE1-406D-49E9-8B86-2C0C0A093B8D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E0B5BCE1-406D-49E9-8B86-2C0C0A093B8D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{E0B5BCE1-406D-49E9-8B86-2C0C0A093B8D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E0B5BCE1-406D-49E9-8B86-2C0C0A093B8D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{4CCB379A-C557-4F36-B88E-6CC646BA69D6}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{4CCB379A-C557-4F36-B88E-6CC646BA69D6}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{4CCB379A-C557-4F36-B88E-6CC646BA69D6}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{4CCB379A-C557-4F36-B88E-6CC646BA69D6}.Release|iPhone.Build.0 = Release|Any CPU
+		{4CCB379A-C557-4F36-B88E-6CC646BA69D6}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{4CCB379A-C557-4F36-B88E-6CC646BA69D6}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{4CCB379A-C557-4F36-B88E-6CC646BA69D6}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{4CCB379A-C557-4F36-B88E-6CC646BA69D6}.Debug|iPhone.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
